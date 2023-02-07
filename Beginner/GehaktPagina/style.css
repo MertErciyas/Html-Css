@@ -1,0 +1,20 @@
+body {
+    font-family: 'Roboto';font-size: 20px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+li {
+    font: lighter;
+    padding-bottom: 15px;
+}
+.Tip {
+    background-color: lightblue;
+    width: 910px;
+}
+.UpperText {
+    color: darkslategray;
+    font-size: 25px;
+}
+.myDiv {
+    text-align: left;
+  }
